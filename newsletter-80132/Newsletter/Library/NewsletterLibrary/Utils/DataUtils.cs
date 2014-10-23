@@ -65,7 +65,7 @@ namespace i386
         {
             
             StringBuilder connStr = new StringBuilder("Provider=Microsoft.Jet.OLEDB.4.0;Data Source=");
-            connStr.Append(System.Web.HttpContext.Current.Server.MapPath("/Newsletter/App_Data/Newsletter.mdb"));
+            connStr.Append(System.Web.HttpContext.Current.Server.MapPath("/App_Data/Newsletter.mdb"));
             connStr.Append(";Persist Security Info=False");
             return connStr.ToString();
         }

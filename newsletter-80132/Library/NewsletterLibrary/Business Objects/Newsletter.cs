@@ -229,10 +229,11 @@ namespace i386.Newsletter
                 return @"<html><head>" + BaseTag + "</head><body>" + this.HTMLContent + "</body></html>"; 
 			}
             // Need to put in the footer too!
-            string HTMLFooter = Tracking.Footer(this.RecordID.ToString(), (string)this.GetListIds[0], "<!--EMAIL-->", "HTML", true);
+            string HTMLFooter = Tracking.Footer(this.RecordID.ToString(), (string)this.GetListIds()[0], "<!--EMAIL-->", "HTML", true);
             // Replace the closing Body 
             body = body.Replace("</body>", HTMLFooter + "</body>");
 
+            return body;
         }
         /// <summary>
         /// Get Subscribers of the Newsletter
