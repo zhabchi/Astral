@@ -1,0 +1,2 @@
+C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\obj\Debug\NewsletterLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\obj\Debug\NewsletterLibrary.dll
