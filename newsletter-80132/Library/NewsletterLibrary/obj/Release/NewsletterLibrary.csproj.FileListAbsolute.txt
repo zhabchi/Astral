@@ -1,5 +1,0 @@
-C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\bin\Release\NewsletterLibrary.dll
-C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\bin\Release\NewsletterLibrary.pdb
-C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\obj\Release\NewsletterLibrary.dll
-C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\obj\Release\NewsletterLibrary.pdb
-C:\Users\Ziad\Documents\GitHub\Astral\newsletter-80132\Library\NewsletterLibrary\obj\Release\NewsletterLibrary.csprojResolveAssemblyReference.cache

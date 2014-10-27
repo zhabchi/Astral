@@ -1,8 +1,0 @@
-C:\projects\Newsletter\Library\NewsletterLibrary\bin\Debug\NewsletterLibrary.dll
-C:\projects\Newsletter\Library\NewsletterLibrary\bin\Debug\NewsletterLibrary.pdb
-C:\projects\Newsletter\Library\NewsletterLibrary\bin\Debug\FreeSMTP.Net.dll
-C:\projects\Newsletter\Library\NewsletterLibrary\bin\Debug\FreeSMTP.Net.xml
-C:\projects\Newsletter\Library\NewsletterLibrary\obj\Debug\ResolveAssemblyReference.cache
-C:\projects\Newsletter\Library\NewsletterLibrary\obj\Debug\NewsletterLibrary.dll
-C:\projects\Newsletter\Library\NewsletterLibrary\obj\Debug\NewsletterLibrary.pdb
-C:\projects\Newsletter\Library\NewsletterLibrary\bin\Debug\EO.Web.dll

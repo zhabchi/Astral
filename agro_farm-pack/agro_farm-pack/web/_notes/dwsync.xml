@@ -5,9 +5,11 @@
 <file name="details.html" server="173.201.216.74//zhabchi/" local="130585418643360405" remote="130585044600000000" Dst="2" />
 <file name="index.html" server="173.201.216.74//zhabchi/" local="130585423535789671" remote="130585066800000000" Dst="2" />
 <file name="service.html" server="173.201.216.74//zhabchi/" local="130585479902222607" remote="130585119600000000" Dst="2" />
-<file name="about.html" server="173.201.216.78//zhabchi/" local="130586114825145143" remote="130585104000000000" Dst="2" />
-<file name="contact.html" server="173.201.216.78//zhabchi/" local="130586114839804918" remote="130585099800000000" Dst="2" />
-<file name="details.html" server="173.201.216.78//zhabchi/" local="130586114856631143" remote="130585044600000000" Dst="2" />
-<file name="index.html" server="173.201.216.78//zhabchi/" local="130586115028720951" remote="130585066800000000" Dst="2" />
-<file name="service.html" server="173.201.216.78//zhabchi/" local="130586115109800026" remote="130585119600000000" Dst="2" />
+<file name="about.html" server="173.201.216.78//zhabchi/" local="130588985537490851" remote="130588661400000000" Dst="1" />
+<file name="contact.html" server="173.201.216.78//zhabchi/" local="130588985071329561" remote="130588661400000000" Dst="1" />
+<file name="details.html" server="173.201.216.78//zhabchi/" local="130588985261837678" remote="130588661400000000" Dst="1" />
+<file name="index.html" server="173.201.216.78//zhabchi/" local="130588984933339719" remote="130588661400000000" Dst="1" />
+<file name="service.html" server="173.201.216.78//zhabchi/" local="130588985423583886" remote="130588661400000000" Dst="1" />
+<file name="details_activities.html" server="173.201.216.78//zhabchi/" local="130588985323385416" remote="130588661400000000" Dst="1" />
+<file name="details_products.html" server="173.201.216.78//zhabchi/" local="130588985364197641" remote="130588661400000000" Dst="1" />
 </dwsync>
