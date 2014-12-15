@@ -80,7 +80,7 @@ h2.style{
 
 	font-size: 2.5em;
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	text-transform: capitalize;
 
@@ -98,7 +98,7 @@ h3.style{
 
 	font-size: 1.5em;
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	text-transform: capitalize;
 
@@ -112,7 +112,7 @@ h3.style a{
 
 	font-size: 1.5em;
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	text-transform: uppercase;
 
@@ -168,7 +168,7 @@ p.para{
 
 	transition: all 0.3s;
 
-	background:	rgb(22, 138, 96);
+	background:	rgb(42,160,21);
 
 }
 
@@ -176,7 +176,7 @@ p.para{
 
 .header_bg{
 
-	background:#279174;
+	background:#2AA015;
 
 	margin-top: -90px;
 
@@ -184,7 +184,7 @@ p.para{
 
 .h_bg{
 
-	border-bottom:10px solid #279174;
+	border-bottom:10px solid #2AA015;
 
 }
 
@@ -208,7 +208,7 @@ p.para{
 
 .top-nav {
 
-	border-top: 10px solid #206D58;
+	border-top: 10px solid #2aa015;
 
 	width: 80%;
 
@@ -216,7 +216,7 @@ p.para{
 
 	position: relative;
 
-	background: #279174;	
+	background: #2AA015;	
 
 }
 
@@ -228,7 +228,7 @@ p.para{
 
 .top-nav li {
 
-	border-right: 1px solid rgb(22, 138, 96);
+	border-right: 1px solid rgb(42,160,21);
 
 	position: relative;
 
@@ -296,7 +296,8 @@ p.para{
 
 .main_bg{
 
-	background: #d8d8d8;
+	/*background: #d8d8d8;*/
+	background:#FFF;
 
 }
 
@@ -341,7 +342,7 @@ p.para{
 
 	font-size: 10em;
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	text-transform: capitalize;
 
@@ -371,7 +372,7 @@ p.para{
 
 	margin:4% 0 4% 4%;
 
-	background:rgb(22, 138, 96);
+	background:rgb(42,160,21);
 
 	position: relative;
 
@@ -423,7 +424,7 @@ p.para{
 
 	line-height: 1.8em;
 
-	color: #56C99B;
+	color: #FFF;
 
 	margin: 1em 0 3.2em 0;
 
@@ -439,7 +440,7 @@ p.para{
 
 .images_1_of_3 .button a{
 
-	background: #d8d8d8;
+	background: rgb(121,211,204);
 
 	position: absolute;
 
@@ -453,7 +454,7 @@ p.para{
 
 	font-size: 0.8125em;
 
-	color:rgb(22, 138, 96);
+	color:rgb(42,160,21);
 
 	line-height:1.8em;
 
@@ -509,7 +510,7 @@ p.para{
 
 	line-height: 1.8em;
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	text-transform: uppercase;
 
@@ -595,7 +596,7 @@ p.para{
 
 .footer_bg{
 
-	background: #279174;
+	background: #2AA015;
 
 }
 
@@ -945,7 +946,7 @@ p.para{
 
 .company_address p span{
 
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 
 	cursor:pointer;
 
