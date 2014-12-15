@@ -178,13 +178,15 @@ p.para{
 
 	background:#2AA015;
 
-	margin-top: -90px;
+	/*margin-top: -90px;*/ /*to fix ie problem*/
+	
 
 }
 
 .h_bg{
 
-	border-bottom:10px solid #2AA015;
+	background:#2AA015;
+	/*border-bottom:10px solid #2AA015;*/ /*to make all headers the same*/
 
 }
 
@@ -216,7 +218,7 @@ p.para{
 
 	position: relative;
 
-	background: #2AA015;	
+	background: #2AA015;
 
 }
 
