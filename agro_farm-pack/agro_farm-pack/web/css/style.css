@@ -150,12 +150,25 @@ p.para{
 
 }
 
+.about_img_style {
+	height: 450px;
+}
+
+.about_img_style img{
+
+	padding: 8px;
+
+	background: #ffffff;
+    
+}
+
+
 .img_style img{
 
 	padding: 8px;
 
 	background: #ffffff;
-
+    
 }
 
 .img_style img:hover{
@@ -388,7 +401,8 @@ p.para{
 
 .images_1_of_3 {
 
-	width: 30.333333%; 
+	width: 30.333333%;
+	height:700px; 
 
 }
 
@@ -495,7 +509,8 @@ p.para{
 	float:left;
 
 	margin-left: 4%;
-
+	/*position:relative;*/
+	
 }
 
 .col_1_of_3:first-child { margin-left: 0; }
@@ -559,6 +574,11 @@ p.para{
 .read_more{
 
 	margin-top: 12%;
+	margin-bottom:4%;
+	/*margin-top: 0%;
+	margin-bottom:12%;
+	position: absolute; 
+	bottom: 0;*/
 
 }
 
@@ -853,6 +873,10 @@ p.para{
 	width: 29.33333%;
 
 	margin-right: 4%;
+	
+	/*position:relative;/*addded by ziad 
+	
+	height:1000px;*/
 
 }
 
@@ -1215,6 +1239,8 @@ p.para{
 		float: none;
 
 		margin: 0;
+		
+		/*position:relative;*/
 
 	}
 
@@ -1229,6 +1255,10 @@ p.para{
 	.read_more {
 
 		margin-top: 4%;
+		margin-bottom:2%;
+		/*margin-bottom:4%;
+		position: absolute; 
+		bottom: 0;*/
 
 	}
 
@@ -1291,6 +1321,8 @@ p.para{
 		width: 100%;
 
 		margin-right: 0%;
+		
+		/*height:1000px;*/
 
 	}
 

@@ -276,9 +276,13 @@ function sendEmail ($messageid,$email,$hash,$htmlpref = 0,$rssitems = array(),$f
     output('merge into template start');
   }
 
-  if ($cached[$messageid]["template"])
+  if ($cached[$messageid]["template"]){
     # template used
     $htmlmessage = str_replace("[CONTENT]",$htmlcontent,$cached[$messageid]["template"]);
+	# added by ziad 
+	$nl_date = date("l F dS, Y");
+	$htmlmessage = eregi_replace("\[NL_DATE\]",$nl_date,$htmlmessage);
+	}
   else {
     # no template used
     $htmlmessage = $htmlcontent;
