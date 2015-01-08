@@ -1,14 +1,1 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name=".htaccess" server="173.201.216.78//zhabchi/" local="130588882682232226" remote="130585924200000000" Dst="1" />
-<file name="Sajax.php" server="173.201.216.78//zhabchi/" local="130588882697918233" remote="130585924200000000" Dst="1" />
-<file name="accesscheck.php" server="173.201.216.78//zhabchi/" local="130588882712908600" remote="130585924200000000" Dst="1" />
-<file name="debuglib.php" server="173.201.216.78//zhabchi/" local="130588882712918590" remote="130585924200000000" Dst="1" />
-<file name="errorlib.php" server="173.201.216.78//zhabchi/" local="130588882713158758" remote="130585924200000000" Dst="1" />
-<file name="maillib.php" server="173.201.216.78//zhabchi/" local="130588882727889346" remote="130585924200000000" Dst="1" />
-<file name="magic_quotes.php" server="173.201.216.78//zhabchi/" local="130588882727889346" remote="130585924200000000" Dst="1" />
-<file name="interfacelib.php" server="173.201.216.78//zhabchi/" local="130588882728349661" remote="130585924200000000" Dst="1" />
-<file name="oldphp_vars.php" server="173.201.216.78//zhabchi/" local="130588882742724285" remote="130585924200000000" Dst="1" />
-<file name="unregister_globals.php" server="173.201.216.78//zhabchi/" local="130588882742734283" remote="130585924200000000" Dst="1" />
-<file name="userlib.php" server="173.201.216.78//zhabchi/" local="130588882759565511" remote="130585924200000000" Dst="1" />
-</dwsync>
+<?xml version="1.0" encoding="utf-8" ?><dwsync><file name=".htaccess" server="173.201.216.78//zhabchi/" local="3503480023" remote="318763443889852932" Dst="1" /><file name="Sajax.php" server="173.201.216.78//zhabchi/" local="3503480027" remote="318763443889852932" Dst="1" /><file name="accesscheck.php" server="173.201.216.78//zhabchi/" local="3503480030" remote="318763443889852932" Dst="1" /><file name="debuglib.php" server="173.201.216.78//zhabchi/" local="3503480030" remote="318763443889852932" Dst="1" /><file name="errorlib.php" server="173.201.216.78//zhabchi/" local="3503480030" remote="318763443889852932" Dst="1" /><file name="maillib.php" server="173.201.216.78//zhabchi/" local="3503480033" remote="318763443889852932" Dst="1" /><file name="magic_quotes.php" server="173.201.216.78//zhabchi/" local="3503480033" remote="318763443889852932" Dst="1" /><file name="interfacelib.php" server="173.201.216.78//zhabchi/" local="3503480033" remote="318763443889852932" Dst="1" /><file name="oldphp_vars.php" server="173.201.216.78//zhabchi/" local="3503480035" remote="318763443889852932" Dst="1" /><file name="unregister_globals.php" server="173.201.216.78//zhabchi/" local="3503480035" remote="318763443889852932" Dst="1" /><file name="userlib.php" server="173.201.216.78//zhabchi/" local="3503480040" remote="318763443889852932" Dst="1" /></dwsync>

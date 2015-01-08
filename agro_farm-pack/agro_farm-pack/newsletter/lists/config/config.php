@@ -109,7 +109,7 @@ $bounce_unsubscribe_threshold = 5;
 
 # if you change the path to the phpList system, make the change here as well
 # path should be relative to the root directory of your webserver (document root)
-$pageroot = '/zhabchi/newsletter/lists';
+$pageroot = '/newsletter/lists';
 
 
 # Click tracking

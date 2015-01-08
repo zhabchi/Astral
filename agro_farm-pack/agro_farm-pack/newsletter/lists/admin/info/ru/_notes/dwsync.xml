@@ -1,33 +1,1 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<dwsync>
-<file name="adminattributes.php" server="173.201.216.78//zhabchi/" local="130588886702825228" remote="130585928400000000" Dst="1" />
-<file name="attributes.php" server="173.201.216.78//zhabchi/" local="130588886719136892" remote="130585928400000000" Dst="1" />
-<file name="bounces.php" server="173.201.216.78//zhabchi/" local="130588886719337021" remote="130585928400000000" Dst="1" />
-<file name="catlists.php" server="173.201.216.78//zhabchi/" local="130588886719347036" remote="130585928400000000" Dst="1" />
-<file name="configure.php" server="173.201.216.78//zhabchi/" local="130588886739520558" remote="130585928400000000" Dst="1" />
-<file name="community.php" server="173.201.216.78//zhabchi/" local="130588886739530560" remote="130585928400000000" Dst="1" />
-<file name="defaults.php" server="173.201.216.78//zhabchi/" local="130588886739580589" remote="130585928400000000" Dst="1" />
-<file name="eventlog.php" server="173.201.216.78//zhabchi/" local="130588886764527222" remote="130585928400000000" Dst="1" />
-<file name="getrss.php" server="173.201.216.78//zhabchi/" local="130588886764537229" remote="130585928400000000" Dst="1" />
-<file name="export.php" server="173.201.216.78//zhabchi/" local="130588886764537229" remote="130585928400000000" Dst="1" />
-<file name="import.php" server="173.201.216.78//zhabchi/" local="130588886790404806" remote="130585928400000000" Dst="1" />
-<file name="import1.php" server="173.201.216.78//zhabchi/" local="130588886790404806" remote="130585928400000000" Dst="1" />
-<file name="import2.php" server="173.201.216.78//zhabchi/" local="130588886791985869" remote="130585928400000000" Dst="1" />
-<file name="importadmin.php" server="173.201.216.78//zhabchi/" local="130588886830158539" remote="130585928400000000" Dst="1" />
-<file name="login.php" server="173.201.216.78//zhabchi/" local="130588886830163551" remote="130585928400000000" Dst="1" />
-<file name="logout.php" server="173.201.216.78//zhabchi/" local="130588886830308960" remote="130585928400000000" Dst="1" />
-<file name="members.php" server="173.201.216.78//zhabchi/" local="130588886882276323" remote="130585928400000000" Dst="1" />
-<file name="message.php" server="173.201.216.78//zhabchi/" local="130588886882276323" remote="130585928400000000" Dst="1" />
-<file name="messages.php" server="173.201.216.78//zhabchi/" local="130588886883076858" remote="130585928400000000" Dst="1" />
-<file name="reconcileusers.php" server="173.201.216.78//zhabchi/" local="130588886922820469" remote="130585928400000000" Dst="1" />
-<file name="reindex.php" server="173.201.216.78//zhabchi/" local="130588886922825472" remote="130585928400000000" Dst="1" />
-<file name="send.php" server="173.201.216.78//zhabchi/" local="130588886923666033" remote="130585928400000000" Dst="1" />
-<file name="setup.php" server="173.201.216.78//zhabchi/" local="130588886947983126" remote="130585928400000000" Dst="1" />
-<file name="spage.php" server="173.201.216.78//zhabchi/" local="130588886947988130" remote="130585928400000000" Dst="1" />
-<file name="spageedit.php" server="173.201.216.78//zhabchi/" local="130588886948688593" remote="130585928400000000" Dst="1" />
-<file name="statsmgt.php" server="173.201.216.78//zhabchi/" local="130588886967781581" remote="130585928400000000" Dst="1" />
-<file name="templates.php" server="173.201.216.78//zhabchi/" local="130588886968081756" remote="130585928400000000" Dst="1" />
-<file name="updatetranslation.php" server="173.201.216.78//zhabchi/" local="130588886970093102" remote="130585928400000000" Dst="1" />
-<file name="usermgt.php" server="173.201.216.78//zhabchi/" local="130588887001237973" remote="130585928400000000" Dst="1" />
-<file name="vote.php" server="173.201.216.78//zhabchi/" local="130588887001237973" remote="130585928400000000" Dst="1" />
-</dwsync>
+<?xml version="1.0" encoding="utf-8" ?><dwsync></dwsync>
