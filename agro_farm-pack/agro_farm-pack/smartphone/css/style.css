@@ -40,14 +40,14 @@ h2.style{
 	font-family: 'Julius Sans One', sans-serif;
 	letter-spacing: -1px;
 	font-size: 1.8em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: capitalize;
 	text-shadow: 0 1px 0 #FFFFFF;
 	margin: 0.3em 0;
 }
 h3.style a{
 	font-size: 1.2em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: uppercase;
 	text-shadow: 0 1px 0 #FFFFFF;
 	font-family: 'Julius Sans One', sans-serif;
@@ -75,15 +75,15 @@ p.para{
 	-moz-transition: all 0.3s;
 	-o-transition: all 0.3s;
 	transition: all 0.3s;
-	background:	rgb(22, 138, 96);
+	background:	rgb(42,160,21);
 }
 /* start header*/
 .header_bg{
-	background:#279174;
+	background:rgb(42,160,21);;
 	margin-top: -55px;
 }
 .h_bg{
-	border-bottom:10px solid #279174;
+	border-bottom:10px solid rgb(42,160,21);;
 }
 .menu {
 	margin-bottom: -10px;
@@ -100,13 +100,13 @@ p.para{
 .top-nav {
 	border-top: 8px solid #206D58;
 	position: relative;
-	background: #279174;	
+	background: rgb(42,160,21);;	
 }
 .top-nav li:nth-child(4){
 	border-right:none;
 }
 .top-nav li {
-	border-right: 1px solid rgb(22, 138, 96);
+	border-right: 1px solid rgb(42,160,21);
 	position: relative;
 	list-style: none;
 	float: left;
@@ -147,7 +147,7 @@ p.para{
 .content h2{
 	font-family: 'Engagement', cursive;
 	font-size:5em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: capitalize;
 	text-shadow: 0 1px 0 #FFFFFF;
 }
@@ -157,7 +157,7 @@ p.para{
 }
 .grid_1_of_3{
 	margin-top:15px;
-	background:rgb(22, 138, 96);
+	background:rgb(42,160,21);
 	position: relative;
 }
 .grids{
@@ -190,7 +190,7 @@ p.para{
 	text-transform: uppercase;
 	letter-spacing: 0px;
 	font-size: 0.8125em;
-	color:rgb(22, 138, 96);
+	color:rgb(42,160,21);
 	line-height:1.8em;
 	-webkit-transition: all 0.3s;
 	-moz-transition: all 0.3s;
@@ -211,7 +211,7 @@ p.para{
 .span_1_of_3 span{
 	font-size: 0.8725em;
 	line-height: 1.5em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: uppercase;
 }
 .span_1_of_3 p.top{
@@ -255,7 +255,7 @@ p.para{
 }
 /*start footer*/
 .footer_bg{
-	background: #279174;
+	background: rgb(42,160,21);;
 }
 .footer{
 	padding: 20px;
@@ -391,7 +391,7 @@ p.para{
 	line-height: 1.5em;
 }
 .company_address p span{
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	cursor:pointer;
 }
 .company_address p span:hover{

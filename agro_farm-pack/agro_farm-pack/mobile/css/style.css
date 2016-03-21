@@ -41,13 +41,13 @@ body {
 }
 h2.style{
 	font-size: 1.5em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: capitalize;
 	margin: 0.3em 0;
 }
 h3.style a{
 	font-size: 1em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: uppercase;
 	padding: 0.5em 0;
 	display: block;
@@ -65,7 +65,7 @@ p.para{
 	background: #ffffff;
 }
 .img_style img:hover{
-	background:	rgb(22, 138, 96);
+	background:	rgb(42,160,21);
 }
 /* start header*/
 .header_bg{
@@ -96,7 +96,7 @@ p.para{
 	border-right:none;
 }
 .top-nav li {
-	border-right: 1px solid rgb(22, 138, 96);
+	border-right: 1px solid rgb(42,160,21);
 	position: relative;
 	list-style: none;
 	float: left;
@@ -135,7 +135,7 @@ p.para{
 }
 .content h2{
 	font-size:5em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: capitalize;
 }
 .grids_of_3{
@@ -144,7 +144,7 @@ p.para{
 }
 .grid_1_of_3{
 	margin-top:15px;
-	background:rgb(22, 138, 96);
+	background:rgb(42,160,21);
 	position: relative;
 }
 .grids{
@@ -176,7 +176,7 @@ p.para{
 	text-transform: uppercase;
 	letter-spacing: 0px;
 	font-size: 0.8125em;
-	color:rgb(22, 138, 96);
+	color:rgb(42,160,21);
 	line-height:1.8em;
 }
 .images_1_of_3 .button a:hover{
@@ -193,7 +193,7 @@ p.para{
 .span_1_of_3 span{
 	font-size: 0.8725em;
 	line-height: 1.5em;
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	text-transform: uppercase;
 }
 .span_1_of_3 p.top{
@@ -354,7 +354,7 @@ p.para{
 	line-height: 1.5em;
 }
 .company_address p span{
-	color: rgb(22, 138, 96);
+	color: rgb(42,160,21);
 	cursor:pointer;
 }
 .company_address p span:hover{

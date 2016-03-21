@@ -7,16 +7,15 @@ include "app/config.php";
 include "app/detect.php";
 
 
-
 if ($page_name=='') {
 
-	include $browser_t.'/index.html';
+	include $browser_t.'/home.html';
 
 	}
 
-elseif ($page_name=='index.html') {
+elseif ($page_name=='home.html') {
 
-	include $browser_t.'/index.html';
+	include $browser_t.'/home.html';
 
 	}
 
@@ -41,6 +40,11 @@ elseif ($page_name=='contact.html') {
 elseif ($page_name=='details.html') {
 
 	include $browser_t.'/details.html';
+
+	}
+elseif ($page_name=='details_nonstop.html') {
+
+	include $browser_t.'/details_nonstop.html';
 
 	}
 elseif ($page_name=='details_products.html') {
