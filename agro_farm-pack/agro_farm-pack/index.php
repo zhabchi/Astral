@@ -57,6 +57,12 @@ elseif ($page_name=='details_activities.html') {
 	include $browser_t.'/details_activities.html';
 
 	}
+elseif ($page_name=='reader.php') {
+
+   
+	include $browser_t.'/reader.php';
+	  
+	}
 elseif ($page_name=='404.html') {
 
 	include $browser_t.'/404.html';
