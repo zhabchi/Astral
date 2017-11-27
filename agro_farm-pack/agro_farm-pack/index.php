@@ -57,6 +57,11 @@ elseif ($page_name=='details_activities.html') {
 	include $browser_t.'/details_activities.html';
 
 	}
+elseif ($page_name=='details_BIC.html') {
+
+	include $browser_t.'/details_BIC.html';
+
+	}
 elseif ($page_name=='reader.php') {
 
    
